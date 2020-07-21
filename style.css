@@ -1,0 +1,18 @@
+body {
+    background-color: pink;
+    color: red;
+}
+
+img {
+    border-radius: 50%;
+    height: 10em;
+    width: 10em;
+}
+
+.column2 {
+    padding-left: 20px;
+    line-height: 15px;
+}
+
+
+
