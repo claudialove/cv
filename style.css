@@ -1,18 +1,42 @@
-body {
-    background-color: pink;
-    color: red;
-}
 
-img {
-    border-radius: 50%;
-    height: 10em;
-    width: 10em;
-}
+    body {
+        background-color: #eaffd0
+    }
 
-.column2 {
-    padding-left: 20px;
-    line-height: 15px;
-}
+    .container{
+        margin: 0 auto;
+        width: 80%;
+        padding: 50px;
+   
+      }
+
+      h1  {
+          color: #f38181;
+          text-transform: uppercase;
+      }
+
+      h3 {
+          color: #f38181;
+          letter-spacing: 0.2rem;
+      }
+
+    img {
+        border-radius: 50%;
+        height: 10em;
+        width: 10em;
+        border: 5px solid #95e1d3;
+    }
+
+    hr {
+        border-top: 5px dotted #fce38a;
+        width: 5%;
+        height: 2px;
+    }
+
+    .column2 {
+        padding-left: 20px;
+        line-height: 15px;
+    }
 
 
 
